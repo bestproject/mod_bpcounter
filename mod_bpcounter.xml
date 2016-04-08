@@ -23,7 +23,7 @@
 	</languages>
     
     <updateservers>
-		<server type="extension" priority="5" name="BP Counter">https://raw.githubusercontent.com/bestproject/mod_bpcounter/updates/update.xml</server>
+		<server type="extension" priority="5" name="BP Counter">https://raw.githubusercontent.com/bestproject/mod_bpcounter/updates/list.xml</server>
 	</updateservers>
     
 	<config>
